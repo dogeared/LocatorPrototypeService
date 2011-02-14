@@ -1,0 +1,3 @@
+ServerConfig:
+  socketTimeout: 1200000
+  timeout: 100

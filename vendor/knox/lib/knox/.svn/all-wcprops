@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/31805/node_process_service/trunk/vendor/knox/lib/knox
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/31805/node_process_service/trunk/vendor/knox/lib/knox/index.js
+END
+client.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/31805/node_process_service/trunk/vendor/knox/lib/knox/client.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/31805/node_process_service/trunk/vendor/knox/lib/knox/utils.js
+END
+auth.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/31805/node_process_service/trunk/vendor/knox/lib/knox/auth.js
+END
